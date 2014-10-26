@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>20E36B70-4968-4E56-828C-A15BEFE61271</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPdfParser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C42061FA0170754963BCA85D9BFD7E98532791E2</key>
+		<string>https://git.hz.netease.com/git/PdfParser/for_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPdfParser.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C42061FA0170754963BCA85D9BFD7E98532791E2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.hz.netease.com/git/PdfParser/for_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C42061FA0170754963BCA85D9BFD7E98532791E2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C42061FA0170754963BCA85D9BFD7E98532791E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPdfParser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
